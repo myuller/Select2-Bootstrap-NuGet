@@ -15,6 +15,10 @@
         </dependencies>
     </metadata>
     <files>
+        <file src="Content\build.less" target="content\Content\select2-bootstrap-build.less" />
+        <file src="Content\build.scss" target="content\Content\select2-bootstrap-build.scss" />
+        <file src="Content\select2-bootstrap.less" target="content\Content\select2-bootstrap.less" />
+        <file src="Content\select2-bootstrap.scss" target="content\Content\select2-bootstrap.scss" />
         <file src="Content\select2-bootstrap.css" target="content\Content\select2-bootstrap.css" />
     </files>
 </package>
